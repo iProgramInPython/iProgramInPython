@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 
-- 🔭 I’m currently working on GrowPY
+- 🔭 I’m currently working on GTPY
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: iProgramInPython#1482
 - ⚡ Fun fact: I like pizza!
