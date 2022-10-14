@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on Sheep-PS
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: iProgramInPython#1482
-- ⚡ Fun fact: I like pizza!
+- ⚡ Fun fact: I like pizza and scary movies!
 
 ### - Favorite Tools:
 <img align="left" alt="VSCode" width="30px" src="https://raw.githubusercontent.com/Mempler/Mempler/master/assets//visual-studio-code.svg"/>
